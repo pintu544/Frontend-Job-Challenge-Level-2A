@@ -27,6 +27,7 @@ The Book Library Application PRD outlines the key features and specifications fo
 
 Style Guide
 
+
 Colors
 Primary Color: #007bff (Primary Blue) - Used for the "Add Book" button.
 Secondary Color: #dc3545 (Danger Red) - Used for the "Remove" button.
